@@ -1,0 +1,31 @@
+[
+  {
+    "id": "32290928-68b8-46b1-9bed-6f5b876810c0",
+    "marketplace": "amazon-jp",
+    "marketplaceName": "Amazon JP",
+    "icon": "🛒",
+    "url": "amazon.co.jp",
+    "country": "Japan",
+    "currency": "JPY",
+    "price": 189800,
+    "exchangeRate": 0.580178,
+    "convertedPriceINR": 110117.78,
+    "shippingINR": 9.28,
+    "insuranceINR": 1651.77,
+    "assessableValue": 111778.83,
+    "bcdPercent": 20,
+    "customsDuty": 22355.77,
+    "igstPercent": 12,
+    "igst": 16096.15,
+    "courierFeesINR": 4.64,
+    "totalLandedCost": 150235.39,
+    "importMethod": "online",
+    "indiaPrice": 127999,
+    "priceDifference": -22236.39,
+    "savingsPercent": -17.37,
+    "recommendation": "Buy in India",
+    "productName": "Samsung Galaxy S24 Ultra 256GB",
+    "isIndian": false,
+    "createdAt": "2026-03-12T19:19:46.177Z"
+  }
+]
